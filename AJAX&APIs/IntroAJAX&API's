@@ -1,0 +1,40 @@
+AJAX 
+ASYNCHRONOUS 
+JavaScript 
+And 
+XML not rlly cuz it's json
+XML is the old way of doing it
+newer options such as fetch 
+XML is weird and almost never used 
+
+JSON  valid json: < https://www.json.org/json-en.html >
+Java 
+Script 
+Object 
+Notation 
+
+Single quotes are invalid in JSON.
+
+network tab on insepct shows all information 
+being loaded onto a web application 
+- see reddit for example - 
+
+searching for things on a website
+gives suggestions and autocomplete.
+as i type, requests are being made 
+to a server to obtain results.
+this updates the stuff live on the 
+network tab. 
+
+requests --> data 
+
+
+
+API 
+Application 
+Programming 
+Interface 
+
+WEB API
+interface that makes requests 
+to particular urls - or endpoints - 
